@@ -220,6 +220,10 @@ input[type=submit]:hover {
     background-color: yellow;
 }
 
+.container img {
+    width: 100% !important;
+}
+
 .containerF {
     text-align: left;
     border-radius: 5px;
@@ -228,4 +232,11 @@ input[type=submit]:hover {
     padding: 20px;
     margin-left: 100px;
     margin-right: 100px;
+}
+
+#box {
+    background-color: yellow;
+    color: black;
+    margin-right: 100px;
+    margin-left: 100px;
 }
